@@ -2,7 +2,7 @@
 
 В портфолио представлен [дипломный проект](https://github.com/GOODRUS/diplom2023) выполненный по завершению курса “Тестировщик ПО” Нетологии.
 
-Основной [задачей](https://github.com/GOODRUS/diplom2023/blob/main/docs/Task.md#банковские-сервисы) проекта является автоматизация позитивных и негативных сценариев веб-сервиса по покупке тура, где оплата тура возможна по дебетовой карте или в кредит. Также необходимо проверка работы приложения с СУБД: [SQL и PostgreSQL](https://github.com/GOODRUS/diplom2023/blob/main/docs/Task.md#техническая-часть).
+Основной [задачей](https://github.com/GOODRUS/diplom2023/blob/main/docs/Task.md#задача) проекта является автоматизация позитивных и негативных сценариев веб-сервиса по покупке тура, где оплата тура возможна по дебетовой карте или в кредит. Также необходимо проверка работы приложения с СУБД: [SQL и PostgreSQL](https://github.com/GOODRUS/diplom2023/blob/main/docs/Task.md#техническая-часть).
 
 На [этапе планирования](https://github.com/GOODRUS/diplom2023/blob/main/docs/Plan.md) было разработаны 88 [тестовых сценариев](https://github.com/GOODRUS/diplom2023/blob/main/docs/Plan.md#перечень-автоматизируемых-сценариев), из которых 72 относятся к [UI-тестированию](https://github.com/GOODRUS/diplom2023/blob/main/docs/Plan.md#frontend-сценарии#L3) и 16 к [API-тестированию](https://github.com/GOODRUS/diplom2023/blob/main/docs/Plan.md#backend-сценарии).
 
